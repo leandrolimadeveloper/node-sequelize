@@ -1,6 +1,7 @@
 ﻿# node-sequelize
 
-Project developed in a class about Sequelize with Node.js, produced by the company Rocketseat.
+## About 
+Project developed in a class about Sequelize with Node.js, produced by the company Rocketseat. In this class was covered concepts of SQL and NoSQL databases, implemented migrations, relationships 1:N and N:N, complex queries and other things.
 
 ## Some implementations made by myself:
 - [x] Changes in the route for deleting techs
